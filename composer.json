@@ -1,0 +1,19 @@
+{
+  "name": "shein",
+  "description": "shein-open-sdk-php",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "shein openapi"
+    }
+  ],
+  "require": {
+ 
+  },
+  "autoload": {
+    "psr-4": {
+      "openapi\\": "src"
+    }
+  }
+}
