@@ -1,7 +1,6 @@
 {
-  "name": "shein",
+  "name": "shein/open-sdk-php",
   "description": "shein-open-sdk-php",
-  "minimum-stability": "stable",
   "license": "proprietary",
   "authors": [
     {
